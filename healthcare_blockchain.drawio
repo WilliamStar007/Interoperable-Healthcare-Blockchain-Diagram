@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T20:22:27.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OyUNPrvH0LVUQK7JR0SH" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-20T20:24:28.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="M5w72utf03EmfpdK0TTX" version="21.0.2" type="github" pages="2">
   <diagram name="Full Structure" id="hzSOFeTqwSm7YmFWf-Gk">
     <mxGraphModel dx="1207" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XtpVKRl7XLYo2x3HiYs4" name="IEEE ICDH 23 Diagram">
-    <mxGraphModel dx="1705" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1827" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,7 +290,7 @@
           <mxGeometry x="-520" y="80" width="400" height="380" as="geometry" />
         </mxCell>
         <mxCell id="f_GC6UOBkS5GIse-A6C5-25" value="Fabric Channel Subnet" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="80" width="140" height="30" as="geometry" />
+          <mxGeometry x="-300" y="80" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f_GC6UOBkS5GIse-A6C5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" target="f_GC6UOBkS5GIse-A6C5-31">
           <mxGeometry relative="1" as="geometry">
