@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T01:18:04.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_dyqOK9fdksou3vOx8E4" version="21.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-21T01:23:31.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="WZ97dQresZDFgBHP1IpD" version="21.0.8" type="github" pages="2">
   <diagram name="Full Structure" id="hzSOFeTqwSm7YmFWf-Gk">
     <mxGraphModel dx="991" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XtpVKRl7XLYo2x3HiYs4" name="IEEE ICDH 23 Diagram">
-    <mxGraphModel dx="1841" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1841" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -483,8 +483,8 @@
         <mxCell id="3CDT4KKQp97nwRawzWUt-28" value="Open Protocol" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-710" y="94.88" width="80" height="30.25" as="geometry" />
         </mxCell>
-        <mxCell id="3CDT4KKQp97nwRawzWUt-29" value="Key:&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;H.O. - Healthcare Organization&lt;/div&gt;&lt;div style=&quot;&quot;&gt;MSP - Membership Service Provider&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Times New Roman;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="380" width="200" height="80" as="geometry" />
+        <mxCell id="3CDT4KKQp97nwRawzWUt-29" value="Key:&lt;br&gt;&lt;br&gt;P. - Patient&lt;br&gt;D. - Delegate&lt;br&gt;&lt;div style=&quot;&quot;&gt;H.O. - Healthcare Organization&lt;/div&gt;&lt;div style=&quot;&quot;&gt;MSP - Membership Service Provider&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Times New Roman;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="360" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
