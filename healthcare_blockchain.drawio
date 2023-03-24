@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T17:25:10.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OXBZAAqQ5UgU8ZnCgkmv" version="21.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-24T17:48:49.861Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ClX0p83gBZFkHUb0k9H_" version="21.1.0" type="github" pages="3">
   <diagram name="Full Structure" id="hzSOFeTqwSm7YmFWf-Gk">
     <mxGraphModel dx="1026" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -490,7 +490,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TtcC0fH8zLKvJ_eUmUTW" name="Recovery Process">
-    <mxGraphModel dx="870" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="244" dy="181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -617,8 +617,8 @@
             <mxPoint x="700" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PW4cc7VymNDo2A2MuSHg-57" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Unverified User Device (Anchor Peer Node)&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="300" y="370" width="80" height="70" as="geometry" />
+        <mxCell id="PW4cc7VymNDo2A2MuSHg-57" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Patient DID&lt;br&gt;Anchor Peer Node&lt;/font&gt;&lt;/p&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Times New Roman;spacingTop=-3;" parent="1" vertex="1">
+          <mxGeometry x="300" y="370" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X4MW2HKDjsQm4lCW0Kqs-1" value="(2) Patient Establishes&lt;br&gt;a New Device on Ethereum and Fabric" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
@@ -643,6 +643,9 @@
         </mxCell>
         <mxCell id="X4MW2HKDjsQm4lCW0Kqs-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Patient Local Storage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="300" y="371" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CdiY6HtDSxfimv33h0OU-1" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Times New Roman&quot;&gt;Unverified User Device&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="420" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
