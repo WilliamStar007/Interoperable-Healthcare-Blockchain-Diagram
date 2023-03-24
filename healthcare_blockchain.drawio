@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T04:00:36.473Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IrBGYLljndoHm3UsUj5Q" version="21.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-24T04:07:47.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uSoInGIjTuFzuzoYsUXR" version="21.0.8" type="github" pages="3">
   <diagram name="Full Structure" id="hzSOFeTqwSm7YmFWf-Gk">
     <mxGraphModel dx="630" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -490,11 +490,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TtcC0fH8zLKvJ_eUmUTW" name="Recovery Process">
-    <mxGraphModel dx="956" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rjqYG_fjX4eRSM5HdVOc-1" value="Delegate" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="rjqYG_fjX4eRSM5HdVOc-1" value="Delegate M" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="340" y="530" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="q7yt4ML3X733dahi2hxR-1" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
