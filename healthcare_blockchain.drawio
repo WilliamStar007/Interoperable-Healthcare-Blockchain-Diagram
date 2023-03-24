@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T05:47:11.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nRvcbILI6xUXqx_e5wPn" version="21.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-24T05:49:02.620Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DQziK3FEo_qk53wHMNZA" version="21.0.8" type="github" pages="3">
   <diagram name="Full Structure" id="hzSOFeTqwSm7YmFWf-Gk">
     <mxGraphModel dx="630" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -490,7 +490,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TtcC0fH8zLKvJ_eUmUTW" name="Recovery Process">
-    <mxGraphModel dx="1283" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -609,7 +609,7 @@
         <mxCell id="PW4cc7VymNDo2A2MuSHg-45" value="(6) Retrieve Patient K Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="780.0000000000002" y="145" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PW4cc7VymNDo2A2MuSHg-47" value="(5) Verify Delegate Signatures" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="PW4cc7VymNDo2A2MuSHg-47" value="(5) Verify Majority Delegate Signatures" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="590" y="145" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PW4cc7VymNDo2A2MuSHg-48" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;fontFamily=Times New Roman;" edge="1" parent="1">
@@ -639,7 +639,7 @@
         <mxCell id="X4MW2HKDjsQm4lCW0Kqs-8" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Patient K Unverified DID&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;spacingTop=-2;" vertex="1" parent="X4MW2HKDjsQm4lCW0Kqs-5">
           <mxGeometry x="5" y="55" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="X4MW2HKDjsQm4lCW0Kqs-9" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Delegate Majority Signature&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;spacingTop=-2;" vertex="1" parent="X4MW2HKDjsQm4lCW0Kqs-5">
+        <mxCell id="X4MW2HKDjsQm4lCW0Kqs-9" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Majority Delegate Signature&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;spacingTop=-2;" vertex="1" parent="X4MW2HKDjsQm4lCW0Kqs-5">
           <mxGeometry x="5" y="80" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X4MW2HKDjsQm4lCW0Kqs-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Unverified DID&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
