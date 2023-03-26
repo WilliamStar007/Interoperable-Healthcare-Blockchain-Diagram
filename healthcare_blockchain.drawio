@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T01:57:10.637Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kovFjbg4eulwsz1szVBH" version="21.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-26T02:02:28.145Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HHRxnB9CJWj8JNXWVckj" version="21.1.1" type="github" pages="4">
   <diagram name="Full Structure" id="hzSOFeTqwSm7YmFWf-Gk">
     <mxGraphModel dx="2520" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -648,7 +648,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HpNMhyaVZwGAl4oobX0t" name="Multi-Signature">
-    <mxGraphModel dx="1008" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="395" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -730,7 +730,7 @@
         <mxCell id="caoxfJjxjoYlHduaW3i9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Times New Roman;" edge="1" parent="1" target="caoxfJjxjoYlHduaW3i9-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="394" as="targetPoint" />
-            <mxPoint x="380" y="390" as="sourcePoint" />
+            <mxPoint x="380" y="389" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="380" y="389" />
             </Array>
