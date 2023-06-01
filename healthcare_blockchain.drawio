@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T22:57:22.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="59t6WvOorZZwuQ_PEud_" version="21.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-01T22:19:59.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tDYuKNaYU8L5JbrM71rj" version="21.3.5" type="github" pages="4">
   <diagram name="Full Structure" id="hzSOFeTqwSm7YmFWf-Gk">
-    <mxGraphModel dx="1026" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -490,7 +490,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TtcC0fH8zLKvJ_eUmUTW" name="Recovery Process">
-    <mxGraphModel dx="1026" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -648,13 +648,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HpNMhyaVZwGAl4oobX0t" name="Multi-Signature">
-    <mxGraphModel dx="1080" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="513" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9o6_wrvHv741__v2JRW9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" target="9o6_wrvHv741__v2JRW9-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="330" y="470" />
+              <mxPoint x="330" y="470" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="caoxfJjxjoYlHduaW3i9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1" source="caoxfJjxjoYlHduaW3i9-4" edge="1">
@@ -687,6 +691,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="560" as="targetPoint" />
             <mxPoint x="330" y="520" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="330" y="540" />
+              <mxPoint x="330" y="540" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9o6_wrvHv741__v2JRW9-4" value="(5) Send Signed Transaction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
