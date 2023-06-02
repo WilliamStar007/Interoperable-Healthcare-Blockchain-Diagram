@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T14:16:54.032Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EqPWlJQ1vsIZrsSNbpM3" version="21.3.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-02T14:19:05.686Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RiUSsQiGbfkxqcDEoMHg" version="21.3.7" type="github" pages="5">
   <diagram name="Full Structure" id="hzSOFeTqwSm7YmFWf-Gk">
     <mxGraphModel dx="1126" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1016,14 +1016,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qixwuLha2D1nn6OCmK9I" name="Delegates">
-    <mxGraphModel dx="633" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="844" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CsG12hVAT5TEv9-IIxRe-1" value="Transaction Document" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="240" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="CsG12hVAT5TEv9-IIxRe-2" value="Content: Recovery Delegates for User Certificate" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="CsG12hVAT5TEv9-IIxRe-1" vertex="1">
+        <mxCell id="CsG12hVAT5TEv9-IIxRe-2" value="Recovery Delegates for &lt;br&gt;User Certificate" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="CsG12hVAT5TEv9-IIxRe-1" vertex="1">
           <mxGeometry x="20" y="32.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CsG12hVAT5TEv9-IIxRe-3" value="Delegate #1 Signature" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="CsG12hVAT5TEv9-IIxRe-1" vertex="1">
@@ -1069,16 +1069,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CsG12hVAT5TEv9-IIxRe-13" value="Delegate #1 Certificate" style="shape=tape;whiteSpace=wrap;html=1;size=0.3333333333333333;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="720" y="305" width="130" height="50" as="geometry" />
+          <mxGeometry x="720" y="305" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CsG12hVAT5TEv9-IIxRe-14" value="User Certificate" style="shape=tape;whiteSpace=wrap;html=1;size=0.3333333333333333;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="720" y="235" width="130" height="50" as="geometry" />
+          <mxGeometry x="720" y="235" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CsG12hVAT5TEv9-IIxRe-15" value="User DID Document" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="650" y="390" width="200" height="90" as="geometry" />
+          <mxGeometry x="650" y="390" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CsG12hVAT5TEv9-IIxRe-16" value="Delegates assigned to DID" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="CsG12hVAT5TEv9-IIxRe-15" vertex="1">
-          <mxGeometry x="25" y="35" width="150" height="45" as="geometry" />
+          <mxGeometry x="20" y="35" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="CsG12hVAT5TEv9-IIxRe-17" value="(3) User &lt;br&gt;Appends &lt;br&gt;Transaction" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;endSize=5;startSize=5;jumpSize=5;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
