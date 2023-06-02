@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T14:06:52.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QIx4RnVCcpMfFjeyu2BA" version="21.3.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-02T14:10:47.215Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3fE0TIK1rkCUDz86DXs2" version="21.3.7" type="github" pages="5">
   <diagram name="Full Structure" id="hzSOFeTqwSm7YmFWf-Gk">
     <mxGraphModel dx="1126" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1016,7 +1016,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qixwuLha2D1nn6OCmK9I" name="Delegates">
-    <mxGraphModel dx="709" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="492" dy="311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1029,30 +1029,35 @@
         <mxCell id="CsG12hVAT5TEv9-IIxRe-3" value="Delegate #1 Signature" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="CsG12hVAT5TEv9-IIxRe-1">
           <mxGeometry x="80" y="110" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsG12hVAT5TEv9-IIxRe-4" value="..." style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="CsG12hVAT5TEv9-IIxRe-1">
-          <mxGeometry x="70" y="160" width="100" height="40" as="geometry" />
+        <mxCell id="CsG12hVAT5TEv9-IIxRe-4" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;...&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="CsG12hVAT5TEv9-IIxRe-1">
+          <mxGeometry x="70" y="170" width="100" height="28" as="geometry" />
         </mxCell>
         <mxCell id="CsG12hVAT5TEv9-IIxRe-5" value="Delegate #N Signature" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="400" y="410" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsG12hVAT5TEv9-IIxRe-6" value="(1) Create &lt;br&gt;Recovery &lt;br&gt;Transaction" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="CsG12hVAT5TEv9-IIxRe-6" value="(1) Create &lt;br&gt;Recovery &lt;br&gt;Transaction" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1">
+          <mxGeometry x="-0.3333" y="-40" relative="1" as="geometry">
             <mxPoint x="560" y="260" as="targetPoint" />
             <mxPoint x="650" y="260" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CsG12hVAT5TEv9-IIxRe-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="655" y="240" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CsG12hVAT5TEv9-IIxRe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" edge="1" parent="1" target="CsG12hVAT5TEv9-IIxRe-3">
+        <mxCell id="CsG12hVAT5TEv9-IIxRe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;endSize=5;startSize=5;jumpSize=5;entryX=1;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CsG12hVAT5TEv9-IIxRe-3">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="610" y="330" />
+              <mxPoint x="610" y="330" />
+            </Array>
             <mxPoint x="650" y="330" as="sourcePoint" />
+            <mxPoint x="490" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CsG12hVAT5TEv9-IIxRe-9" value="(2) Delegates Sign &lt;br&gt;Association with User" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CsG12hVAT5TEv9-IIxRe-8">
           <mxGeometry x="0.0822" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CsG12hVAT5TEv9-IIxRe-10" value="Delegate #1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -1082,7 +1087,7 @@
         <mxCell id="CsG12hVAT5TEv9-IIxRe-16" value="Delegates assigned to DID" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="CsG12hVAT5TEv9-IIxRe-15">
           <mxGeometry x="25" y="35" width="150" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="CsG12hVAT5TEv9-IIxRe-17" value="(3) User &lt;br&gt;Appends &lt;br&gt;Transaction" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+        <mxCell id="CsG12hVAT5TEv9-IIxRe-17" value="(3) User &lt;br&gt;Appends &lt;br&gt;Transaction" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="450" as="sourcePoint" />
             <mxPoint x="650" y="450" as="targetPoint" />
