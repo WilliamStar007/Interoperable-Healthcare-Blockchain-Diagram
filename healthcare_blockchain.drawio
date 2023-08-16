@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T23:41:36.737Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ToduB5MLW2Tcd4JlAsad" version="21.3.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-08-16T07:47:02.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="luMtxTlhapU1pLhR-vQg" version="21.6.5" type="github" pages="7">
   <diagram name="Full Structure" id="hzSOFeTqwSm7YmFWf-Gk">
-    <mxGraphModel dx="1163" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1464,62 +1464,62 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sdcJJjkSyNAzvD4QG106" name="Data Sharing">
-    <mxGraphModel dx="1375" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="js9M2IT_va6apWkYsAua-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1" source="js9M2IT_va6apWkYsAua-2">
+        <mxCell id="js9M2IT_va6apWkYsAua-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=5;startSize=5;jumpSize=5;" parent="1" source="js9M2IT_va6apWkYsAua-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-2" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-2" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="180" y="178" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Healthcare&lt;br&gt;Provider (HP)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Healthcare&lt;br&gt;Provider (HP)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="218" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1" source="js9M2IT_va6apWkYsAua-5" target="js9M2IT_va6apWkYsAua-8">
+        <mxCell id="js9M2IT_va6apWkYsAua-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=5;startSize=5;jumpSize=5;" parent="1" source="js9M2IT_va6apWkYsAua-5" target="js9M2IT_va6apWkYsAua-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Health Info Document&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Health Info Document&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="260" y="178" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;A. HP creates a transaction&lt;br&gt;that contains procedure-related&lt;br&gt;data or information update&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;A. HP creates a transaction&lt;br&gt;that contains procedure-related&lt;br&gt;data or information update&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="213" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1" source="js9M2IT_va6apWkYsAua-8">
+        <mxCell id="js9M2IT_va6apWkYsAua-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=5;startSize=5;jumpSize=5;" parent="1" source="js9M2IT_va6apWkYsAua-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/48x48/actions/kgpg_key2.png" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/48x48/actions/kgpg_key2.png" parent="1" vertex="1">
           <mxGeometry x="460" y="178" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;B. HP creates a key pair of &lt;i&gt;public&lt;/i&gt;&lt;br&gt;and &lt;i&gt;private&lt;/i&gt; key, denoted by P&lt;sub&gt;t&lt;/sub&gt;&lt;/font&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;and&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;P&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;-1&lt;/sup&gt;,&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt; respectively, to represent the &lt;br&gt;new created transaction.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;B. HP creates a key pair of &lt;i&gt;public&lt;/i&gt;&lt;br&gt;and &lt;i&gt;private&lt;/i&gt; key, denoted by P&lt;sub&gt;t&lt;/sub&gt;&lt;/font&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;and&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;P&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;-1&lt;/sup&gt;,&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt; respectively, to represent the &lt;br&gt;new created transaction.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="420" y="218" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="168" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="183" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;P&lt;/span&gt;&lt;font style=&quot;&quot;&gt;&lt;sub style=&quot;font-size: 8px;&quot;&gt;O&lt;/sub&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;sup&gt;-1&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;P&lt;/span&gt;&lt;font style=&quot;&quot;&gt;&lt;sub style=&quot;font-size: 8px;&quot;&gt;O&lt;/sub&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;sup&gt;-1&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="650" y="160" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;P&lt;sub&gt;P&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;P&lt;sub&gt;P&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="647" y="173" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-14" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;P&lt;sub&gt;t&lt;/sub&gt; and P&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-14" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;P&lt;sub&gt;t&lt;/sub&gt; and P&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="590" y="183" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-15" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;C. HP encrypts&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&amp;nbsp;and P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;/span&gt;&amp;nbsp;&lt;/font&gt;with the &lt;br&gt;Patient&#39;s public key&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;P&lt;/span&gt;&lt;sub style=&quot;font-size: 10px;&quot;&gt;p&lt;/sub&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt; and then &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;encrypts the result with the HP&#39;s &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;private key P&lt;/span&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;sub style=&quot;&quot;&gt;O&lt;/sub&gt;&lt;sup style=&quot;&quot;&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-15" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;C. HP encrypts&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&amp;nbsp;and P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;/span&gt;&amp;nbsp;&lt;/font&gt;with the &lt;br&gt;Patient&#39;s public key&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;P&lt;/span&gt;&lt;sub style=&quot;font-size: 10px;&quot;&gt;p&lt;/sub&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt; and then &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;encrypts the result with the HP&#39;s &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;private key P&lt;/span&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;sub style=&quot;&quot;&gt;O&lt;/sub&gt;&lt;sup style=&quot;&quot;&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="213" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1" target="js9M2IT_va6apWkYsAua-18">
+        <mxCell id="js9M2IT_va6apWkYsAua-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;endSize=5;startSize=5;jumpSize=5;" parent="1" target="js9M2IT_va6apWkYsAua-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="197.87" as="targetPoint" />
             <mxPoint x="680" y="197.87" as="sourcePoint" />
@@ -1529,7 +1529,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1" source="js9M2IT_va6apWkYsAua-18" target="js9M2IT_va6apWkYsAua-21">
+        <mxCell id="js9M2IT_va6apWkYsAua-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endSize=5;startSize=5;jumpSize=5;" parent="1" source="js9M2IT_va6apWkYsAua-18" target="js9M2IT_va6apWkYsAua-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="298" as="targetPoint" />
             <Array as="points">
@@ -1538,13 +1538,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="780" y="178" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-19" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;D. HP publishes the encrypted&lt;br&gt;message containing&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&amp;nbsp;and P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;/span&gt;&amp;nbsp;&lt;br&gt;to the blockchain network.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-19" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;D. HP publishes the encrypted&lt;br&gt;message containing&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&amp;nbsp;and P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;/span&gt;&amp;nbsp;&lt;br&gt;to the blockchain network.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="740" y="213" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1" source="js9M2IT_va6apWkYsAua-21" target="js9M2IT_va6apWkYsAua-24">
+        <mxCell id="js9M2IT_va6apWkYsAua-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;endSize=5;startSize=5;jumpSize=5;" parent="1" source="js9M2IT_va6apWkYsAua-21" target="js9M2IT_va6apWkYsAua-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="398" as="targetPoint" />
             <Array as="points">
@@ -1554,58 +1554,58 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="278" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-22" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;P&lt;sub&gt;t&lt;/sub&gt; and P&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-22" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;P&lt;sub&gt;t&lt;/sub&gt; and P&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="283" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-23" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;E. Patient decrypts the message using the HP&#39;s &lt;br&gt;public key followed by Patient&#39;s private key and &lt;br&gt;stores the transmission key pair&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&amp;nbsp;and P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;/span&gt;&amp;nbsp;for &lt;br&gt;future communication with the HP.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-23" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;E. Patient decrypts the message using the HP&#39;s &lt;br&gt;public key followed by Patient&#39;s private key and &lt;br&gt;stores the transmission key pair&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&amp;nbsp;and P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;-1&lt;/sup&gt;&lt;/font&gt;&lt;/span&gt;&amp;nbsp;for &lt;br&gt;future communication with the HP.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="225" y="313" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="393" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-25" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;P&lt;sub style=&quot;&quot;&gt;t&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-25" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;P&lt;sub style=&quot;&quot;&gt;t&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="315" y="385" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-26" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Health Info Document&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-26" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Health Info Document&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="225" y="413" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-27" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;F. HP posts a new transaction to the blockchain &lt;br&gt;network with the patient&#39;s data encrypted using&lt;br&gt;their respective transmission key&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-27" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;F. HP posts a new transaction to the blockchain &lt;br&gt;network with the patient&#39;s data encrypted using&lt;br&gt;their respective transmission key&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;P&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;t&lt;/sub&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="185" y="453" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=5;startSize=5;jumpSize=5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="428" as="targetPoint" />
             <mxPoint x="340" y="428" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-29" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Health Info Document&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-29" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Health Info Document&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="400" y="405.5" width="100" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;G. Patient decrypts the &lt;br&gt;transaction contents and &lt;br&gt;signs with their signature.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;G. Patient decrypts the &lt;br&gt;transaction contents and &lt;br&gt;signs with their signature.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="451" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=5;startSize=5;jumpSize=5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="428" as="targetPoint" />
             <mxPoint x="500" y="428" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="393" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-33" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;P&lt;sub style=&quot;&quot;&gt;t&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-33" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;P&lt;sub style=&quot;&quot;&gt;t&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="675" y="385" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-34" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Health Info Document&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-34" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Health Info Document&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="585" y="413" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-35" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;H.2. Patient uploads the transaction&amp;nbsp;&lt;br&gt;with their signature encrypted with &lt;br&gt;the transmission key P&lt;sub&gt;t&lt;/sub&gt;.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-35" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;H.2. Patient uploads the transaction&amp;nbsp;&lt;br&gt;with their signature encrypted with &lt;br&gt;the transmission key P&lt;sub&gt;t&lt;/sub&gt;.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="452" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=5;startSize=5;jumpSize=5;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="js9M2IT_va6apWkYsAua-37">
+        <mxCell id="js9M2IT_va6apWkYsAua-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=5;startSize=5;jumpSize=5;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="js9M2IT_va6apWkYsAua-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="538" as="sourcePoint" />
             <mxPoint x="570" y="328" as="targetPoint" />
@@ -1616,35 +1616,99 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-37" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Patient&lt;br&gt;Local&lt;br&gt;Storage&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-37" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Patient&lt;br&gt;Local&lt;br&gt;Storage&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="308" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-38" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;H.1. Patient stores the signed &lt;br&gt;transaction in their local storage.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-38" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;H.1. Patient stores the signed &lt;br&gt;transaction in their local storage.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="354" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="513" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-40" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;P&lt;sub style=&quot;&quot;&gt;D0&amp;nbsp;&lt;/sub&gt;... P&lt;sub&gt;Dn&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-40" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;P&lt;sub style=&quot;&quot;&gt;D0&amp;nbsp;&lt;/sub&gt;... P&lt;sub&gt;Dn&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="645" y="505" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-41" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Health Info Document&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-41" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Health Info Document&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="585" y="533" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=5;startSize=5;jumpSize=5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="428" as="targetPoint" />
             <mxPoint x="700" y="428" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-43" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;HP Local Storage&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-43" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;HP Local Storage&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="398" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-44" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;H.3. HP decrypts the signed&lt;br&gt;transaction and stores it in&lt;br&gt;their local storage.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-44" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;H.3. HP decrypts the signed&lt;br&gt;transaction and stores it in&lt;br&gt;their local storage.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="750" y="451" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="js9M2IT_va6apWkYsAua-45" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;H.4. Patient uploads the transaction with their&amp;nbsp;&lt;br&gt;signature encrypted with a shared secret key&lt;br&gt;combining all their delegates (P&lt;sub&gt;D0&lt;/sub&gt; ... P&lt;sub&gt;Dn&lt;/sub&gt;) and&lt;br&gt;posts to the blockchain network.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="js9M2IT_va6apWkYsAua-45" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;H.4. Patient uploads the transaction with their&amp;nbsp;&lt;br&gt;signature encrypted with a shared secret key&lt;br&gt;combining all their delegates (P&lt;sub&gt;D0&lt;/sub&gt; ... P&lt;sub&gt;Dn&lt;/sub&gt;) and&lt;br&gt;posts to the blockchain network.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="574" width="210" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4-QPazJvnpUV4BFsRMex" name="Recovery Mechanism">
+    <mxGraphModel dx="765" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcThlAr1vyWNyKZ5srTi-1" target="xcThlAr1vyWNyKZ5srTi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcThlAr1vyWNyKZ5srTi-2" target="xcThlAr1vyWNyKZ5srTi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcThlAr1vyWNyKZ5srTi-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="239.66666666666663" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-4" value="Encrypted&lt;br&gt;Patient&lt;br&gt;Transaction&lt;br&gt;#0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-5" value="#..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="180" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-6" value="Encrypted&lt;br&gt;Patient&lt;br&gt;Transaction&lt;br&gt;#N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xcThlAr1vyWNyKZ5srTi-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="340" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-10" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="225" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-11" value="Hyperledger&lt;br&gt;Fabric&lt;br&gt;Network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-13" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="725" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.52" y="250" as="sourcePoint" />
+            <mxPoint x="299.52" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcThlAr1vyWNyKZ5srTi-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619.52" y="250" as="sourcePoint" />
+            <mxPoint x="619.52" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
